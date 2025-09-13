@@ -7,7 +7,6 @@ We implement, train, and compare several strategies:
 - **Random Search**
 - **Hill Climbing**
 - **Evolution Strategies**
-- **Proximal Policy Optimization (PPO)**
 
 ## 📌 Project Goals
 1. Train an agent to play Ms. Pac-Man using various RL algorithms.  
